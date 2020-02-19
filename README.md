@@ -1,2 +1,2 @@
 # Raspberry 
-Raspberry tempture control.
+Raspberry temperature control.
